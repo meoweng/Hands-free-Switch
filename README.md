@@ -7,6 +7,6 @@ This project develops a real-time sound detection system using the STM32L476 mic
 ## Demo Video
 
 A short demonstration of the sound-controlled lighting system in action.
-The video shows the LED toggling in response to a clap detected by the sound sensor.
+The video shows the LED toggling in response to a snap detected by the sound sensor.
 
 ![Project Demo](./demo.gif)
