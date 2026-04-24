@@ -4,7 +4,7 @@ This project develops a real-time sound detection system using the STM32L476 mic
 ![Description](./IO_diagram.png)
 
 ## Report
-[Click here to view the full report](./CENG_315_Project_Report_1__Copy_.pdf)
+[Click here to view the full report](./Hands_Free_Switch_Project_Report.pdf)
 
 ## Demo Video
 
